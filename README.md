@@ -22,6 +22,5 @@ Brief description of the project with key features and technologies used.
 ---
 
 ## 📫 How to reach me:
-- [LinkedIn](https://www.linkedin.com/in/thilini-fernando)
-- [Medium](https://medium.com/@thilini-fernando)
-- [Email](mailto:thilini@example.com)
+- [LinkedIn](https://www.linkedin.com/in/k-t-l-fernando)
+- [Medium](https://medium.com/@thilini_)
