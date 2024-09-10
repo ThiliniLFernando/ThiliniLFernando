@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi there, I'm Thilini Fernando 👋
 
-<!--
-**ThiliniLFernando/ThiliniLFernando** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Software Engineer | Java | React | Kafka | Microservices
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Skills
+- **Backend**: Java, Spring Boot, REST APIs, Microservices
+- **Frontend**: React.js, HTML, CSS, JavaScript
+- **DevOps**: Docker, AWS EC2, CI/CD, Jenkins
+- **Databases**: MySQL, MongoDB, Redis
+
+---
+
+## 📊 Projects
+### [Project Name 1](https://github.com/yourusername/project1)
+Description of the project, tech stack, and what you built. Include a link to the repository.
+
+### [Project Name 2](https://github.com/yourusername/project2)
+Brief description of the project with key features and technologies used.
+
+---
+
+## 📫 How to reach me:
+- [LinkedIn](https://www.linkedin.com/in/thilini-fernando)
+- [Medium](https://medium.com/@thilini-fernando)
+- [Email](mailto:thilini@example.com)
