@@ -1,6 +1,6 @@
 # Hi there, I'm Thilini Fernando 👋
 
-### Software Engineer | Java | React | Kafka | Microservices
+### Software Engineer | Java | React | Kafka | Microservices | AI | ML | DL | GenAI
 
 ---
 
