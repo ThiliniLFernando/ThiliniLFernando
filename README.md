@@ -1,6 +1,6 @@
 # Hi there, I'm Thilini Fernando 👋
 
-### Software Engineer | Java 
+### Software Engineer | Tech Enthusiast
 
 ---
 
